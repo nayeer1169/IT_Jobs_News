@@ -4,13 +4,13 @@ Generated for India time zone: Asia/Kolkata.
 
 ## Quick Summary
 
-IT hiring on June 14, 2026, continues to experience a structural reset. Traditional mass recruitment is at a historic low, with active tech openings in India remaining flat at around 93,000. Organizations are heavily favoring specialized, "skills-first" hiring. Global Capability Centers (GCCs) are taking the lead in technical hiring, especially in Tier-2 and Tier-3 cities which are emerging as cost-effective talent hotspots.
+IT hiring on June 14, 2026, continues to experience a structural reset. Traditional mass recruitment is at a historic low, with active tech openings in India remaining flat at around 93,000 (representing a 14% MoM decline and a 17% YoY drop). Organizations are heavily favoring specialized, "skills-first" hiring. Global Capability Centers (GCCs) are taking the lead in technical hiring, especially in Tier-2 and Tier-3 cities which are emerging as cost-effective talent hotspots.
 
 ## Key Hiring Numbers
 
 | Area | Reported number | Date / period | Meaning | Source |
 | --- | ---: | --- | --- | --- |
-| India active tech job openings | ~93,000 | June 2026 | Fallen to a 28-month low; represents a 14% MoM decline and a 17% YoY drop. | New Indian Express / CIO Insider, June 2026: https://www.newindianexpress.com |
+| India active tech job openings | ~93,000 | June 2026 | Fallen to a 28-month low; represents a 14% MoM decline and a 17% YoY drop. | New Indian Express / CIO Insider, June 2026 |
 | US Tech Employment | Cautious hiring intent | June 2026 | Tech employment growth remains slow and highly targeted in US companies due to focus on margins. | Robert Half / Business Insider, 2026 |
 | IT services hiring volumes | Historic Lows | FY26 / June 2026 | Top services firms are optimizing existing resource utilization rather than executing large fresher cohorts. | Business Today, 2026 |
 

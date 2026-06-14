@@ -4,14 +4,14 @@ Generated for India time zone: Asia/Kolkata.
 
 ## Quick Summary
 
-Global tech layoffs remain elevated as we head into mid-June 2026, with the total number of impacted tech workers for the year surpassing 183,000. Companies continue to aggressively restructure to free up capital for intensive AI operations and infrastructure. Traditional support roles, middle management, and general software developers face elevated displacement as organizations transition to leaner, AI-enabled setups.
+Global tech layoffs remain elevated as we head into mid-June 2026, with the total number of impacted tech workers for the year surpassing 183,900. The primary driver of cuts continues to shift from simple post-pandemic cost-cutting to structural transitions, with companies aggressively redirecting capital to fund AI operations, models, and computational hardware.
 
 ## Key Layoff And Workforce Numbers
 
 | Area / company | Reported number | Date / period | Reason or context | Source |
 | --- | ---: | --- | --- | --- |
-| Global Tech Layoffs (YTD) | 183,966 employees (247 events) | Jan - June 14, 2026 | Broad structural transition toward AI-first products and cost containment. | SkillSyncer / Layoffs.fyi, June 2026 |
-| Google Cloud | Undisclosed (Impacted teams) | June 2026 | Re-alignment of cybersecurity units, including Mandiant and Threat Intelligence. | Intellizence / Tech Media, 2026 |
+| Global Tech Layoffs (YTD) | 183,900+ employees (247 events) | Jan - June 14, 2026 | Broad transition to leaner, AI-centric operations and cost mitigation. | SkillSyncer / Layoffs.fyi, June 2026 |
+| Google Cloud | Undisclosed (Impacted teams) | June 2026 | Re-alignment of cybersecurity divisions (Mandiant and Threat Intelligence). | Intellizence / Tech Media, 2026 |
 | Opendoor India | Shutdown of India engineering presence | June 2026 | Centralizing core engineering and operations back to the United States. | Tech industry channels / YouTube, June 2026 |
 | ServiceNow | Undergoing restructuring | June 2026 | Targeted reorganizations to streamline software teams. | Reddit tech discussions, 2026 |
 
