@@ -4,20 +4,22 @@ Generated for India time zone: Asia/Kolkata.
 
 ## Quick Summary
 
-Global tech layoffs remain elevated as we head into mid-June 2026, with the total number of impacted tech workers for the year surpassing 183,900. The primary driver of cuts continues to shift from simple post-pandemic cost-cutting to structural transitions, with companies aggressively redirecting capital to fund AI operations, models, and computational hardware. Traditional support roles, middle management, and general software developers face displacement as organizations pivot to leaner, AI-enabled setups.
+Global tech layoffs remain elevated as we head into mid-June 2026, with the total number of impacted tech workers for the year surpassing 183,900. In a major development today, Robinhood announced it is cutting 10% of its workforce as part of an organizational "flattening" to eliminate heavy layering. Financial giant BlackRock is also laying off 200 employees as part of its ongoing restructuring. Additionally, a new study reveals that tech layoffs have averaged 1,115 workers per day in 2026, with companies heavily citing AI transitions, though analysts note these cuts have frequently failed to immediately boost returns.
 
 ## Key Layoff And Workforce Numbers
 
 | Area / company | Reported number | Date / period | Reason or context | Source |
 | --- | ---: | --- | --- | --- |
-| Global Tech Layoffs (YTD) | 183,900+ employees (247 events) | Jan - June 16, 2026 | Broad transition to leaner, AI-centric operations and cost mitigation. | SkillSyncer / Layoffs.fyi, June 2026 |
-| Google Cloud | Undisclosed (Impacted teams) | June 2026 | Re-alignment of cybersecurity divisions (Mandiant and Threat Intelligence). | Intellizence / Tech Media, 2026 |
+| Global Tech Layoffs (YTD) | 183,900+ employees | Jan - June 16, 2026 | Broad transition to leaner, AI-centric operations and cost mitigation. | SkillSyncer / Layoffs.fyi, June 2026 |
+| Robinhood | ~10% of workforce | June 16, 2026 | Organizational flattening to reduce "heavily-layered" corporate structure. | TechCrunch / Fortune, June 2026 |
+| BlackRock | ~200 employees | June 16, 2026 | Re-alignment of workforce and quiet restructuring routines. | Moneycontrol / Bloomberg, June 2026 |
+| Google Cloud | Undisclosed (Impacted teams) | June 2026 | Re-alignment of cybersecurity divisions (Mandiant and Threat Intelligence). | Intellizence / Tech Media, June 2026 |
 | Opendoor India | ~250 employees | June 2026 | Shutting down India engineering presence; centralizing core operations back to the United States. | Tech industry channels / YouTube, June 2026 |
 | ServiceNow | Undisclosed | June 2026 | Undergoing restructuring and targeted organizational changes to streamline teams. | Reddit tech discussions, 2026 |
 
 ## Global Situation
 
-The tech industry is undergoing a structural pivot. While companies continue to report strong financial earnings, budgets are being heavily reallocated to build out expensive AI compute infrastructure (GPUs and server farms). To sustain these multi-billion dollar capex plans, non-core teams, legacy systems development, and duplicate roles are being trimmed.
+The tech industry's layoffs are shifting. While 2024–2025 focused on broad post-pandemic cost-cutting, 2026 is defined by structural reorganization. A Tech Times study showed that cuts have hit 1,115 workers daily, often justified by AI integrations, though critics note these cuts do not always yield immediate financial returns. Companies like Robinhood are actively stripping away middle management to create flatter, faster-moving hierarchies.
 
 **Roles at higher risk:**
 - Middle management and operational coordination layers

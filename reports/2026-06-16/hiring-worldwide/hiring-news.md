@@ -4,13 +4,14 @@ Generated for India time zone: Asia/Kolkata.
 
 ## Quick Summary
 
-IT hiring on June 16, 2026, continues to navigate a structural reset. Traditional mass recruitment remains at a historic low, with active tech openings in India flat at around 93,000 (representing a 14% MoM decline and a 17% YoY drop). Organizations are focusing heavily on specialized, "skills-first" hiring where AI acts as a force multiplier. Global Capability Centers (GCCs) and emerging AI startups (such as Bengaluru-based Sarvam, which recently raised $234M) are driving the demand for high-end technical roles, particularly in cost-optimized Tier-2 and Tier-3 cities.
+IT hiring on June 16, 2026, continues to navigate a structural reset. Traditional mass recruitment remains at a historic 28-month low, with active tech openings in India flat at around 93,000. However, new doors are opening: Australia is actively drawing Indian tech workers following recent US visa constraints, and the Reserve Bank of India (RBI) has launched a high-value young professionals program offering Rs 1.5 Lakh monthly stipends. Globally, hiring focuses on "skills-first" strategies, emphasizing a hybrid of technical AI capability and core human collaboration skills.
 
 ## Key Hiring Numbers
 
 | Area | Reported number | Date / period | Meaning | Source |
 | --- | ---: | --- | --- | --- |
-| India active tech job openings | ~93,000 | June 2026 | Fallen to a 28-month low; represents a 14% MoM decline and a 17% YoY drop. | New Indian Express / CIO Insider, June 2026 |
+| India active tech job openings | ~93,000 | June 2026 | Fallen to a 28-month low; represents a 14% MoM decline and a 17% YoY drop. | The Week / CIO Insider, June 2026 |
+| RBI Young Professionals | Rs 1.5 Lakh monthly stipend | June 16, 2026 | Contract-based recruitment program for young specialists in technology and finance. | NDTV Profit, June 2026 |
 | Sarvam AI Funding | $234 million | June 2026 | Raising significant funding, leading to domestic AI platform engineering and research hiring. | Asanify, June 2026 |
 | GCC hiring share | High relative resilience | June 2026 | GCC hiring continues to outpace traditional IT services firms as MNCs move AI projects in-house. | New Indian Express / CIO Insider, 2026 |
 
@@ -20,9 +21,9 @@ IT hiring on June 16, 2026, continues to navigate a structural reset. Traditiona
 | --- | --- | --- | --- |
 | TCS | Recruiting selectively through national portals and Smart Hiring paths. | Ninja, Digital, Prime, Smart Hiring paths. | https://www.tcs.com/careers/india/entry-level |
 | Infosys | Active graduate portal with an emphasis on AI-first training and developer tracks. | Systems Engineer, Specialist Programmer. | https://www.infosys.com/careers/graduates.html |
-| Sarvam AI / Domestic Startups | Raising headcount for ML engineering, NLP research, and platform infrastructure. | Associate ML Engineer, Software Engineer (Backend), NLP Intern. | Check official startup portals and LinkedIn listings |
+| Reserve Bank of India (RBI) | Active application window for Young Professional contracts; highly competitive but high stipend. | Young Professional (Tech / Research / Finance). | https://www.rbi.org.in |
+| Australian Tech Firms | Active recruitment pipelines targeting Indian engineers affected by US H-1B limits. | Software Engineer, DevOps Specialist, Data Analyst. | Check specialized boards (e.g. Seek, CFOtech Australia) |
 | Global Capability Centers (GCCs) | Recruiting for specialized product development, cloud operations, and security. | Junior Data Engineer, Cloud Associate, Security Analyst. | Check official GCC careers pages |
-| Government & Research Internships | Active recruitment for technical contract roles and internships (e.g., DRDO). | Technical Intern, Research Apprentice. | https://www.drdo.gov.in/ and local boards |
 
 ## Skills In Demand
 
@@ -36,10 +37,10 @@ Employers are shifting away from generic coding profiles in favor of roles that 
 
 ## Fresher Action Plan For Today
 
-1. Emphasize AI/ML projects: Include proof-of-work on GitHub demonstrating custom API integrations, model training, or automation tools.
-2. Target GCCs in Tier-2/3 Cities: Look for office locations in cities like Jaipur, Coimbatore, and Lucknow, which are experiencing increased hiring activity.
-3. Adopt a "Skills-First" resume style: Tailor your profile to highlight specific, testable technical competencies rather than generic role descriptions.
-4. Prepare for rigorous screening: Anticipate coding assessments, system design basics, and AI tool integration questions in technical interviews.
+1. **Leverage Non-US Geographies:** Explore visa pathways and jobs in Australia and Europe, as their tech firms are actively recruiting Indian talent due to US visa backlogs.
+2. **Apply for Public Sector Contracts:** Do not ignore high-paying public sector opportunities like the RBI Young Professionals scheme, which values deep technical competence.
+3. **Adopt a "Skills-First" Resume Style:** Tailor your profile to highlight specific, testable technical competencies rather than generic role descriptions.
+4. **Prepare for custom screenings:** Expect automated coding tests and system design rounds, as companies are heavily filtering resumes.
 
 ## Reliability Notes
 
