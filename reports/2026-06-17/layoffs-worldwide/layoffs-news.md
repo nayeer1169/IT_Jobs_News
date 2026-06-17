@@ -4,7 +4,7 @@ Generated for India time zone: Asia/Kolkata.
 
 ## Quick Summary
 
-Global tech layoffs remain elevated as we head into mid-June 2026, with the total number of impacted tech workers for the year surpassing 185,000. In a major development, Rackspace announced it is terminating 750 workers as part of a strategic pivot to AI services, and Meta CEO Mark Zuckerberg addressed staff to acknowledge mistakes in their AI transition and pledged to avoid further company-wide layoffs for the remainder of 2026. Tech layoffs are averaging over 1,115 workers per day this year, with companies aggressively redirecting capital to fund AI operations, models, and computational hardware.
+Global tech layoffs remain elevated as we head into mid-June 2026, with the total number of impacted tech workers for the year surpassing 185,000. In key developments today, creative software firm Artlist laid off 200 employees (40% of its staff) as it shifts to an AI-native business model, and Rackspace terminated 750 workers. Additionally, Robinhood detailed its layoff of 290 employees (10% of its staff) as part of an organizational flattening, and Meta CEO Mark Zuckerberg addressed staff to acknowledge transition errors and pledge to avoid further company-wide layoffs for the remainder of 2026. Tech layoffs are averaging over 1,115 workers per day this year, with companies aggressively redirecting capital to fund AI operations, models, and computational hardware.
 
 ## Key Layoff And Workforce Numbers
 
@@ -13,7 +13,8 @@ Global tech layoffs remain elevated as we head into mid-June 2026, with the tota
 | Global Tech Layoffs (YTD) | 185,000+ employees | Jan - June 17, 2026 | Broad transition to leaner, AI-centric operations and cost mitigation. | SkillSyncer / Layoffs.fyi, June 2026 |
 | Meta | 8,000 laid off, 7,000 reassigned | May - June 2026 | Shift to AI-focused roles; CEO Zuckerberg pledged to avoid further company-wide layoffs in 2026, acknowledging mistakes in the transition. | Economic Times / DQ India, June 2026 |
 | Rackspace | 750 employees | June 17, 2026 | Strategic pivot toward new AI services. | San Antonio Report, June 2026 |
-| Robinhood | ~10% of workforce | June 16, 2026 | Organizational flattening to reduce "heavily-layered" corporate structure. | TechCrunch / Fortune, June 2026 |
+| Robinhood | 290 employees (~10% of workforce) | June 16, 2026 | Organizational flattening to reduce "heavily-layered" corporate structure. | TechCrunch / Fortune, June 2026 |
+| Artlist | ~200 employees (40% of workforce) | June 17, 2026 | Headcount reduction as part of transition to an AI-native operating structure. | LayoffHedge, June 2026 |
 | BlackRock | ~200 employees | June 16, 2026 | Re-alignment of workforce and quiet restructuring routines. | Moneycontrol / Bloomberg, June 2026 |
 | Google Cloud | Undisclosed (Impacted teams) | June 2026 | Re-alignment of cybersecurity divisions (Mandiant and Threat Intelligence). | Intellizence / Tech Media, June 2026 |
 | Opendoor India | ~250 employees | June 2026 | Shutting down India engineering presence; centralizing core operations back to the United States. | Tech industry channels / YouTube, June 2026 |
@@ -21,7 +22,7 @@ Global tech layoffs remain elevated as we head into mid-June 2026, with the tota
 
 ## Global Situation
 
-The tech industry's layoffs are shifting. While 2024–2025 focused on broad post-pandemic cost-cutting, 2026 is defined by structural reorganization. A study showed that cuts have hit 1,115 workers daily, often justified by AI integrations, though critics note these cuts do not always yield immediate financial returns. Companies like Robinhood and Meta are actively stripping away middle management and legacy teams to create flatter, faster-moving hierarchies and fund multi-billion dollar capex plans in computational hardware.
+The tech industry's layoffs are shifting. While 2024–2025 focused on broad post-pandemic cost-cutting, 2026 is defined by structural reorganization. A study showed that cuts have hit 1,115 workers daily, often justified by AI integrations, though critics note these cuts do not always yield immediate financial returns. Companies like Robinhood, Artlist, and Meta are actively stripping away middle management and legacy teams to create flatter, faster-moving hierarchies and fund multi-billion dollar capex plans in computational hardware.
 
 **Roles at higher risk:**
 - Middle management and operational coordination layers

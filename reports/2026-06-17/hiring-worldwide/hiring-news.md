@@ -4,13 +4,14 @@ Generated for India time zone: Asia/Kolkata.
 
 ## Quick Summary
 
-IT hiring on June 17, 2026, continues to navigate a structural reset. Traditional mass recruitment is at a historic 28-month low, with active tech openings in India flat at around 93,000. However, alternative pipelines are active: Australian tech firms continue targeting Indian developers impacted by US H-1B limitations, and the Reserve Bank of India (RBI) Young Professionals program remains a key public sector route offering Rs 1.5 Lakh monthly stipends. Hiring globally is shifting to a "two-track" model, where demand is growing specifically for "professionalized" roles where AI enhances human expertise, while generic coding roles face contraction.
+IT hiring on June 17, 2026, continues to navigate a structural reset. Traditional mass recruitment is at a historic 28-month low, with active tech openings in India flat at around 93,000. However, alternative pipelines are active: Australian tech firms continue targeting Indian developers impacted by US H-1B limitations, and the Reserve Bank of India (RBI) Young Professionals program remains a key public sector route offering Rs 1.5 Lakh monthly stipends. A major bright spot today is Hexaware Technologies announcing a £25 million investment in the UK to create 1,200 jobs in AI, digital services, and quantum computing. Hiring globally is shifting to a "two-track" model, where demand is growing specifically for "professionalized" roles where AI enhances human expertise, while generic coding roles face contraction.
 
 ## Key Hiring Numbers
 
 | Area | Reported number | Date / period | Meaning | Source |
 | --- | ---: | --- | --- | --- |
 | India active tech job openings | ~93,000 | June 2026 | Fallen to a 28-month low; represents a 14% MoM decline and a 17% YoY drop. | The Week / CIO Insider, June 2026 |
+| Hexaware Technologies UK | 1,200 jobs | June 17, 2026 | £25 million investment to expand footprint in AI, digital, and quantum computing services in the UK. | Hexaware announcement / Tech Media, June 2026 |
 | RBI Young Professionals | Rs 1.5 Lakh monthly stipend | June 17, 2026 | Contract-based recruitment program for young specialists in technology and finance. | NDTV Profit, June 2026 |
 | Tier-2 / Tier-3 hiring interest | 25–35% growth | June 2026 | Companies are redirecting recruitment to cities like Visakhapatnam, Coimbatore, and Jaipur to optimize cost. | CIO Insider / Industry data, 2026 |
 | GCC hiring share | High relative resilience | June 2026 | GCC hiring continues to outpace traditional IT services firms as MNCs move AI projects in-house. | New Indian Express / CIO Insider, 2026 |
