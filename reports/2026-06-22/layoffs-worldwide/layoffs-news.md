@@ -4,36 +4,36 @@ Generated for India time zone: Asia/Kolkata.
 
 ## Quick Summary
 
-Global tech layoffs remain elevated as of June 22, 2026, with the year-to-date total of affected tech workers reaching 185,894 across 267 layoff events. The "AI Pivot" continues to dominate restructuring decisions, as companies reduce headcounts in non-core divisions to reallocate budgets to AI infrastructure and compute resources. Gallup data highlights that generalist tech workers who do not regularly use AI tools face up to triple the layoff risk.
+Global tech layoffs continue to reshape the industry in late June 2026, with the year-to-date total exceeding 185,000 workers across 267 events. The primary driver remains the shift in investment toward AI capabilities. Recent studies highlight a stark divide in job security, showing that tech workers who do not regularly utilize AI tools face a significantly higher risk of layoff.
 
 ## Key Layoff And Workforce Numbers
 
 | Area / company | Reported number | Date / period | Reason or context | Source |
 | --- | ---: | --- | --- | --- |
-| Tech Industry YTD | 185,894+ employees | Jan - June 22, 2026 | Industry average of 1,075 job losses per day; reallocation of budgets from payroll to AI computing resources. | SkillSyncer / Layoffs.fyi |
-| Ubisoft | 380+ employees | June 2026 | Downsizing and closure of studios in Barcelona and San Francisco. | Intellizence / Crunchbase |
-| Salesforce | Selected employees | Mid-June 2026 | Selective downsizing in MuleSoft and Marketing Cloud divisions. | Intellizence / Industry reports |
-| ServiceNow | Selected employees | June 2026 | Restructuring driven by integrating generative AI into internal product workflows. | Intellizence / Crunchbase |
+| Tech Industry YTD | 185,000+ employees | Jan - June 22, 2026 | Reallocation of corporate budgets from payroll to AI computing resources. | SkillSyncer / Layoffs.fyi |
+| Ubisoft Barcelona & SF | 380+ employees | June 2026 | Structural reorganization and closure of non-performing game development studios. | Eurogamer / IGN |
+| Salesforce | 86 employees | June 2026 | Target downsizings in MuleSoft and Marketing Cloud teams. | Intellizence / Industry reports |
+| Paytm | 400 employees | June 2026 | Operational restructuring to integrate AI workflow automation. | Intellizence / Tech Media |
 
 ## Global Situation
 
-The global tech labor market is undergoing a transition where companies are attempting to operate with leaner headcounts. Cuts are frequently justified by efficiency gains from AI integration. The shift has particularly impacted middle management, QA teams, and generalist developers.
+The tech industry's layoffs are shifting. While 2024–2025 focused on broad post-pandemic cost-cutting, 2026 is defined by structural reorganization. A recent Bloomberg and Gallup study published in June 2026 confirms that AI proficiency has become a key factor in retention, with non-AI-literate developers experiencing higher redundancy rates. Companies are flattening hierarchies to fund multi-billion dollar capex plans in computational hardware.
 
 **Roles at higher risk:**
-- Middle management and operational coordination layers
+- Non-AI-integrated developer roles
 - Manual testing and QA roles
-- Administrative support and customer service
-- Generalist developers not utilizing AI tools
+- Middle management and operational coordination layers
+- Legacy game developers and designers
 
 **Roles less exposed:**
-- Machine Learning engineers and NLP researchers
+- Machine Learning operations (MLOps) engineers
 - Cloud architects, SREs, and Platform engineering teams
+- Cybersecurity and network defense specialists
 - Core data engineers maintaining ETL pipelines
-- Security engineering and defensive operations specialists
 
 ## India Situation
 
-The Indian developer market is feeling the impact of global client caution, leading to a 28-month low in active tech job postings. In addition, there are rising concerns about H-1B immigration changes in the United States, which could prompt the repatriation of some technical talent back to India, adding further pressure to a highly competitive local market.
+Indian developers face a dual challenge: the slowdown in traditional IT service headcount and the centralization trends of U.S. parent companies. Developers are increasingly focused on cross-skilling into cloud computing and AI tooling to secure new roles.
 
 ## Reliability Notes
 
