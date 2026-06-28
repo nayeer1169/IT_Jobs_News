@@ -4,40 +4,40 @@ Generated for India time zone: Asia/Kolkata.
 
 ## Quick Summary
 
-IT and tech hiring remains cautious at the end of June 2026. Active tech openings in India are flat at a multi-year low of approximately 93,000, and entry-level positions are down 44% year-on-year. However, Global Capability Centers (GCCs) continue to show resilience, and specialized demand is high for talent skilled in MLOps, cloud infrastructure, and cybersecurity.
+The global and Indian IT hiring landscapes are marked by a "tale of two realities." Traditional IT sectors face hiring headwinds, with active tech job openings in India hitting a 28-month low of approximately 93,000. However, demand for specialized skills—such as AI engineering, cloud infrastructure, and cybersecurity—remains highly resilient, with small and medium-sized enterprises (MSMEs) reporting a major surge in demand for AI-related talents.
 
 ## Key Hiring Numbers
 
 | Area | Reported number | Date / period | Meaning | Source |
 | --- | ---: | --- | --- | --- |
-| India active tech job openings | ~93,000 | June 2026 | Active tech postings are at a 28-month low, representing a 17% decline YoY. | Xpheno Talent Intelligence |
-| Entry-level openings (0-2 YOE) | 44% YoY decline | June 2026 | Severe contraction in traditional fresher intake by major IT services firms. | Industry reports |
-| Tier-2 / Tier-3 hiring interest | 25–35% growth | June 2026 | Growing corporate recruitment in regional hubs (e.g., Coimbatore, Visakhapatnam, Jaipur) to optimize cost structures. | CIO Insider / Industry data |
+| India active tech job openings | ~93,000 | June 2026 | Tech postings at a 28-month low, showing a 14% MoM decline. | Business Today / Xpheno |
+| AI skill demand in MSMEs | 164% surge | June 2026 | Rapid acceleration in AI adoption among small and medium-sized enterprises. | Republic World / Industry data |
+| Global engineering positions | Positive growth | Jan - June 2026 | Resilient open positions globally, shifting toward specialized talents. | Coding Temple / Industry reports |
 
 ## Companies And Channels Hiring Freshers
 
 | Company / channel | Fresher signal today | Roles to check | Apply / source |
 | --- | --- | --- | --- |
-| Paytm | Hiring for merchant tech and AI automation roles. | Associate Software Engineer, Operations Analyst. | Check Paytm Careers Page |
-| Global Capability Centers (GCCs) | Recruiting for specialized product development, cloud operations, and security. | Junior Data Engineer, Cloud Associate. | Check official GCC careers pages |
-| Infosys | Active graduate portal with an emphasis on AI-first training. | Systems Engineer, Specialist Programmer. | https://www.infosys.com/careers/graduates.html |
+| Global Capability Centers (GCCs) | Relatively stable and selective hiring in regional hubs. | Junior Data Engineer, Cloud Associate. | Check official GCC careers pages |
+| Infosys | Continuing graduate intake focusing on AI-first capabilities. | Systems Engineer, Associate Developer. | https://www.infosys.com/careers/graduates.html |
+| MSMEs & Startups | Active demand for AI-fluent generalist builders and helpers. | AI Intern, MLOps Assistant. | Local job boards and startup portals |
 
 ## Skills In Demand
 
-Employers are highly prioritizing specialized skills over generic coding capabilities:
+Employers are heavily prioritizing specialized competencies over generic programming skills:
 
-- AI/ML Engineering & Generative AI integration
+- AI Engineering, prompt engineering, and machine learning operations (MLOps)
+- Cloud Infrastructure Architecture & SRE (AWS, Azure, Terraform)
+- Cybersecurity, network protection, and threat hunting
 - Data Engineering (ETL pipelines, Snowflake, Databricks)
-- Cloud Infrastructure & SRE (AWS, Kubernetes, Terraform)
-- Cybersecurity & Incident response
 
 ## Action Plan For Today
 
-1. **Target Regional Tech Hubs:** Focus on job listings in Tier-2 and Tier-3 cities in India (such as Coimbatore or Visakhapatnam), where MNCs are actively expanding operations.
-2. **Prioritize GCC Career Portals:** Global Capability Centers are hiring more resiliently than traditional IT service companies.
-3. **Build Niche Cloud Expertise:** Certifications and hands-on experience in MLOps and SRE will make your profile stand out.
+1. **Focus on Specialization:** With entry-level generalist roles down, focus on building expertise in cloud, security, and practical AI application (e.g. system design, scalability).
+2. **Explore Regional and GCC Hubs:** Look at Global Capability Centers (GCCs) and Tier-2/Tier-3 cities where companies are expanding their cost-effective footprints.
+3. **Upskill in Practical AI:** Leverage the 164% demand surge in MSMEs by acquiring hands-on skills in integrating AI tools.
 
 ## Reliability Notes
 
-- Official corporate career portals remain the most reliable application method.
-- Job postings from startups and specialized firms can be highly competitive; verify role details before applying.
+- Corporate career pages remain the most direct and reliable application method.
+- Market statistics reflect overall sector trends; specific startup openings can close quickly.

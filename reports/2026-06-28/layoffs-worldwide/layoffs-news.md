@@ -4,37 +4,37 @@ Generated for India time zone: Asia/Kolkata.
 
 ## Quick Summary
 
-Global tech layoffs maintain their persistent, AI-driven pace at the end of June 2026. digital asset custodian BitGo has announced a 15% workforce reduction to redirect its corporate structure toward AI and network infrastructure development. Meanwhile, sudden offshore team layoffs via remote meetings without severance highlights the increasing precarity of regional development groups.
+Global tech layoffs remain elevated, with tracking services estimating over 185,000 tech workers impacted in 2026. A notable incident over the June 27–28 weekend involved an unnamed company abruptly shutting down operations in India, laying off 150 engineering staff without severance via a 9:00 PM Microsoft Teams call. Companies continue to trim human headcount in traditional IT and administrative support roles to fund investments in computational AI infrastructure.
 
 ## Key Layoff And Workforce Numbers
 
 | Area / company | Reported number | Date / period | Reason or context | Source |
 | --- | ---: | --- | --- | --- |
-| BitGo | 15% of workforce | June 28, 2026 | Structural realignment to focus resources on AI integrations and core infrastructure. | Intellizence / Tech Media |
-| Oracle | ~21,000 employees (~13%) | June 2026 (FY26 disclosure) | Annual regulatory disclosure details cuts aimed at database automation and AI deployment. | Forbes / Regulatory Filings |
-| Tech Industry YTD | 185,000+ employees | Jan - June 28, 2026 | Broad transition to flatter team sizes and AI automation budgets. | SkillSyncer / Layoffs.fyi |
+| India Operations (Unnamed Company) | 150 employees | June 27, 2026 | Abrupt shutdown of operations in India, laid off via a 9:00 PM Teams call. | Hindustan Times |
+| Cisco | 400+ employees | Late June 2026 | Part of an ongoing multi-phase restructuring plan in California. | LA Times |
+| Tech Industry YTD | 185,000+ employees | Jan - June 28, 2026 | Broad restructuring driven by corporate pivots towards AI infrastructure. | SkillSyncer / Layoffs.fyi |
 
 ## Global Situation
 
-The tech sector's restructuring has become a continuous reality rather than a cyclical reaction. Companies are aggressively cutting costs by trimming operations, QA departments, and middle management to fund multi-billion dollar AI capex requirements. BitGo's 15% workforce cut is a clear example of a mid-sized firm streamlining its headcount to redirect focus entirely onto AI capability and underlying platform engineering.
+The tech sector continues its structural transition. Rather than survival-based downsizing, companies are actively flattening structures and cutting back-office or support staff to finance heavy investments in AI chips and data center capacities. Roles that involve manual operations, administration, entry-level programming, or routine support are experiencing higher rates of redundancy.
 
 **Roles at higher risk:**
-- Middle management and operations coordination
-- QA manual testers and non-automated engineers
-- Offshore generalist developers in teams undergoing domestic centralization
-- Administrative and customer support teams
+- Corporate administration and middle management
+- Back-office operational finance and legal support
+- Generalist programmers and manual QA roles
+- Non-AI-integrated development positions
 
 **Roles less exposed:**
-- AI/ML researchers, prompt engineers, and MLOps professionals
-- Cloud infrastructure architects, Kubernetes operators, and SREs
-- Cybersecurity architects and defensive security teams
-- Core data platform engineers maintaining ETL databases
+- AI/ML research and deep learning practitioners
+- Cloud infrastructure architects and SREs
+- Cybersecurity architects
+- Data platform engineers managing ETL pipelines
 
 ## India Situation
 
-Indian developers face a highly competitive domestic job market, which has hit a 28-month low in active tech openings. This slowdown is worsened by an influx of experienced tech returnees from the U.S. due to H-1B visa challenges and global layoffs, resulting in a significant supply-demand mismatch for senior developer positions.
+Indian technical talent faces severe pressure as major IT services firms continue to show conservative, near-flat hiring growth due to global macro concerns and visa updates. However, Global Capability Centers (GCCs) are proving relatively resilient, absorbing talent and hiring for specialized roles. The sudden shutdown of a firm laying off 150 engineering employees without severance highlights the volatility in some operations.
 
 ## Reliability Notes
 
-- Cumulative YTD figures from trackers like Layoffs.fyi are subject to reporting lags and revision.
-- Specific restructuring numbers for companies reflect ongoing employee reports and preliminary media coverage.
+- Tracking data (e.g. Layoffs.fyi, SkillSyncer) is subject to reporting lags and revision.
+- Immediate reports on company shutdowns and layoffs rely on preliminary employee testimony and early news reports.
