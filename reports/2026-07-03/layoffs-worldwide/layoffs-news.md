@@ -4,30 +4,37 @@ Generated for India time zone: Asia/Kolkata.
 
 ## Quick Summary
 
-Global tech sector reorganizations continue into July 2026 as tech enterprises adjust headcounts and realign budgets toward artificial intelligence infrastructure and core growth areas.
+Global tech layoffs continue their steady pace at the start of July 2026, with cumulative cuts for the year reaching over 186,000 across 260 major events. Microsoft is preparing to announce a targeted workforce reduction affecting less than 2.5% of its staff next week, while Cisco implements regional job cuts (including 471 positions in California) as part of its ongoing alignment around AI infrastructure.
 
 ## Key Layoff And Workforce Numbers
 
 | Area / company | Reported number | Date / period | Reason or context | Source |
 | --- | ---: | --- | --- | --- |
-| Tech Industry YTD | 185,000+ employees | Jan - July 2026 | Sector-wide headcount adjustment and operational efficiency push. | Industry Tracking |
+| Microsoft | Up to ~2.5% of workforce (Thousands of roles) | July 3, 2026 (Expected next week) | Restructuring at the start of the fiscal year, affecting sales, consulting, and Xbox gaming units. | GeekWire / Computerworld |
+| Cisco | ~471 employees in California | July 2026 | Downsizing California office footprints to prioritize AI investments. | Intellizence / Tech Media |
+| Tech Industry YTD | 186,000+ employees | Jan - July 3, 2026 | Broad transition to flatter team sizes and automated back-office workflows. | SkillSyncer / Layoffs.fyi |
 
 ## Global Situation
 
-Enterprises across North America, Europe, and Asia-Pacific continue optimizing middle management and corporate sales structures. Capital reallocation toward AI compute and cloud services remains a major driver of workforce restructuring.
+Tech companies represent approximately one-third of all U.S. layoffs in the first half of 2026. This ongoing recalibration reflects a strategic pivot rather than general contraction; major enterprises are trimming redundant operations, middle management, and routine manual support structures to clear up capital budgets for high-end AI servers and advanced engineering teams.
 
 **Roles at higher risk:**
-- Middle management & non-technical sales coordination
-- QA manual testers and generalist administrative roles
+- Middle management and non-technical sales coordinators
+- Entry-level code maintenance and manual QA
+- Regional administrative support and legacy consulting
+- Xbox gaming division support roles
 
 **Roles less exposed:**
-- AI/ML research and MLOps engineers
-- Cloud security architects & Site Reliability Engineers
+- Machine learning research and MLOps practitioners
+- Cloud infrastructure architects and SREs
+- Cybersecurity specialists and defensive engineers
+- Data platform engineers managing large-scale ETL pipelines
 
 ## India Situation
 
-The Indian IT services sector faces moderate hiring velocity, balanced by strong retention and targeted recruitment in GCCs (Global Capability Centers) operating across major metropolitan and emerging tech hubs.
+The Indian IT services market remains cautious with conservative, near-flat hiring growth. While entry-level opportunities are constrained, Global Capability Centers (GCCs) are maintaining active, selective recruitment, particularly for specialized roles in time-zone-aligned remote structures.
 
 ## Reliability Notes
 
-- Aggregated statistics rely on public announcements and industry tracking services.
+- Tracking data (e.g., Layoffs.fyi, SkillSyncer) is subject to reporting lags and revision.
+- Immediate reports on company shutdowns and layoffs rely on preliminary employee testimony and early news reports.
