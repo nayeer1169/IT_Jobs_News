@@ -1,16 +1,16 @@
 #!/bin/bash
 
 # Navigate to the repository directory
-REPO_DIR="/Users/nayeer1169/Documents/Jobs Section/IT_Jobs_News"
-cd "$REPO_DIR" || exit 1
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+cd "$SCRIPT_DIR" || exit 1
 
 # Get current date in YYYY-MM-DD format
 TODAY=$(date +"%Y-%m-%d")
 TARGET_DIR="reports/$TODAY"
 
-# Check if today's folder already exists
-if [ -d "$TARGET_DIR" ]; then
-    echo "Folder $TARGET_DIR already exists."
+# Check if today's folder already exists and has files
+if [ -d "$TARGET_DIR" ] && [ -f "$TARGET_DIR/hiring-worldwide/hiring-news.md" ] && [ -f "$TARGET_DIR/layoffs-worldwide/layoffs-news.md" ]; then
+    echo "Folder $TARGET_DIR already exists with reports for $TODAY."
     exit 0
 fi
 
@@ -98,9 +98,17 @@ The Indian IT services sector faces moderate hiring velocity, balanced by strong
 - Aggregated statistics rely on public announcements and industry tracking services.
 EOF
 
-# Git Commit and Push
-git add "$TARGET_DIR"
-git commit -m "Add IT jobs news reports for $TODAY"
-git -c http.curloptResolve="github.com:443:20.207.73.82" push origin main
+# Git Commit and Push (if not in GitHub Actions workflow runner)
+if [ -z "$GITHUB_ACTIONS" ]; then
+    git add "$TARGET_DIR"
+    git commit -m "Add IT jobs news reports for $TODAY" || true
+    if git push origin main 2>/dev/null; then
+        echo "Successfully created and pushed reports for $TODAY"
+    else
+        git -c http.curloptResolve="github.com:443:20.207.73.82" push origin main
+        echo "Successfully created and pushed reports for $TODAY with curloptResolve"
+    fi
+else
+    echo "Report files generated for $TODAY. GitHub Action will handle git commit and push."
+fi
 
-echo "Successfully created and pushed reports for $TODAY"

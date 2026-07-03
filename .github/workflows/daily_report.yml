@@ -1,0 +1,36 @@
+name: Daily IT Jobs & Layoffs Report
+
+on:
+  schedule:
+    # Runs at 16:30 UTC every day (which is 10:00 PM IST / Asia/Kolkata timezone)
+    - cron: '30 16 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  daily-report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Grant execute permissions for script
+        run: chmod +x ./daily_report.sh
+
+      - name: Run daily report script
+        run: ./daily_report.sh
+
+      - name: Commit and Push reports to GitHub
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          TODAY=$(date +"%Y-%m-%d")
+          git add reports/
+          if git diff --cached --quiet; then
+            echo "No new changes or reports to commit for $TODAY."
+          else
+            git commit -m "Add IT jobs news reports for $TODAY [skip ci]"
+            git push origin main
+          fi
