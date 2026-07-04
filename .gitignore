@@ -1,0 +1,4 @@
+# Logs and temporary files
+cron.log
+*.log
+.DS_Store

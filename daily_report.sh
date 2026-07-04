@@ -4,8 +4,8 @@
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR" || exit 1
 
-# Get current date in YYYY-MM-DD format
-TODAY=$(date +"%Y-%m-%d")
+# Get current date in YYYY-MM-DD format (Asia/Kolkata timezone)
+TODAY=$(TZ="Asia/Kolkata" date +"%Y-%m-%d")
 TARGET_DIR="reports/$TODAY"
 
 # Check if today's folder already exists and has files
