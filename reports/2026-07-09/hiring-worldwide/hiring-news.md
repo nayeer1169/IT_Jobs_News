@@ -4,7 +4,7 @@ Generated for India time zone: Asia/Kolkata.
 
 ## Quick Summary
 
-The tech hiring landscape begins July 2026 with a selective, short-term recovery. Active job openings in India have rebounded by approximately 14% month-on-month from June's multi-year low, led by Bengaluru's 20% monthly recovery. However, a sharp "AI divergence" has emerged: while overall IT recruitment has faced a 3% YoY decline, hiring specifically for AI and machine learning roles has grown by 16% YoY.
+The tech hiring landscape begins July 2026 with a selective, short-term recovery. Active job openings in India have rebounded by approximately 14% month-on-month from June's multi-year low, led by Bengaluru's 20% monthly recovery. Additionally, the Cotton Corporation of India (CCI) has officially opened applications today for 148 vacancies, including IT-specific positions.
 
 ## Key Hiring Numbers
 
@@ -21,7 +21,7 @@ The tech hiring landscape begins July 2026 with a selective, short-term recovery
 | --- | --- | --- | --- |
 | Global Capability Centers (GCCs) | Relatively stable and selective hiring in regional hubs. | Junior Data Engineer, Cloud Associate. | Check official GCC careers pages |
 | Infosys / TCS | Continuing graduate intake with AI focus. | Systems Engineer, Specialist Programmer. | Official career portals |
-| MSMEs & Startups | Active demand for AI-fluent generalist builders and helpers. | AI Intern, MLOps Assistant. | Local job boards and startup portals |
+| Cotton Corporation of India (CCI) | Government recruitment drive open from July 9 to July 24, 2026. | Junior Assistant, IT Associate, Management Trainee. | Official CCI portal |
 
 ## Skills In Demand
 
@@ -35,7 +35,7 @@ Employers are heavily prioritizing specialized competencies over generic program
 ## Action Plan For Today
 
 1. **Target GCC Portals:** Global Capability Centers remain the most resilient employers, with active hiring for specialized positions.
-2. **Prioritize Skills Validation:** Leverage the industry shift from degree-based screening to technical assessments by building a robust Github portfolio and validating cloud/ML qualifications.
+2. **Explore government / public sector drives:** Apply for the newly opened Cotton Corporation of India (CCI) vacancies before the July 24 deadline.
 3. **Build MLOps Experience:** With entry-level positions flatlining, acquiring MLOps, model deployment, and AI security skills is essential to stand out.
 
 ## Reliability Notes
