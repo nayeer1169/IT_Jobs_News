@@ -20,6 +20,8 @@ jobs:
         run: chmod +x ./daily_report.sh
 
       - name: Run daily report script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: ./daily_report.sh
 
       - name: Commit and Push reports to GitHub
