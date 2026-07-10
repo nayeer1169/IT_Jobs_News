@@ -4,20 +4,20 @@ Generated for India time zone: Asia/Kolkata.
 
 ## Quick Summary
 
-Global tech layoffs continue to reshape organizational structures, with cumulative cuts for 2026 exceeding 185,000. Microsoft is actively moving forward with its planned reduction of 4,800 roles (2.1% of its workforce) across Xbox and sales units, while Lumen Technologies implements departures within its Growth and Partner divisions.
+Global tech layoffs maintain their persistent pace at the start of July 2026, with cumulative cuts for the year exceeding 185,000 across more than 260 major events. While Microsoft's recent 4,800 headcount reduction highlights corporate restructuring to fund AI infrastructure, regional centers in India like CorroHealth face direct government scrutiny following abrupt mass terminations.
 
 ## Key Layoff And Workforce Numbers
 
 | Area / company | Reported number | Date / period | Reason or context | Source |
 | --- | ---: | --- | --- | --- |
-| Microsoft | ~4,800 employees | July 2026 | Restructuring commercial and Xbox divisions, including ~1,600 gaming roles. | The Guardian / GeekWire |
-| Lumen Technologies | ~90 employees | July 10, 2026 | Operations streamlining in Growth and Partner divisions. | Channel Dive |
-| Tech Industry YTD | 185,000+ employees | Jan - July 10, 2026 | Sector-wide headcount adjustment to prioritize AI infrastructure. | SkillSyncer / Layoffs.fyi |
-| Oracle | ~25,000+ employees | YTD 2026 | Multi-quarter global restructuring details database automation and AI deployment cuts. | HR Dive / Trackers |
+| Microsoft | ~4,800 employees | July 2026 | Organizational restructuring affecting Xbox and commercial sales units. | GeekWire / The HR Digest |
+| CorroHealth | ~800 employees | July 2026 | Mass terminations at Kochi and Kozhikode branches, sparking government intervention. | The Hindu |
+| KPMG | ~200 employees | July 2026 | Headcount reductions targeting corporate services divisions. | People Matters |
+| Tech Industry YTD | 185,000+ employees | Jan - July 10, 2026 | Pivot to fund large-scale AI infrastructure capex budgets. | SkillSyncer / Layoffs.fyi |
 
 ## Global Situation
 
-Tech restructuring remains intensive as companies transition legacy divisions into flatter, AI-integrated teams. Budget priorities are aggressively shifting away from traditional general programming, manual QA, and middle management to offset the extremely high capital expenses (capex) required for AI server chips, data center leases, and cloud compute infrastructure.
+The tech sector remains the primary epicenter of labor adjustments in 2026. Unlike 2025, which saw companies balance pandemic-era hiring surpluses, 2026 layoffs are primarily driven by AI integration and automation. Companies are actively reallocating budgets to support massive AI infrastructure projects, leading to redundancy in quality assurance, customer support, and routine software development.
 
 **Roles at higher risk:**
 - Middle management and non-technical coordinators
@@ -33,7 +33,7 @@ Tech restructuring remains intensive as companies transition legacy divisions in
 
 ## India Situation
 
-The Indian IT services market remains cautious with conservative, near-flat hiring growth. While entry-level opportunities are constrained, Global Capability Centers (GCCs) are maintaining active, selective recruitment, particularly for specialized roles in time-zone-aligned remote structures.
+The Indian IT sector is experiencing a rise in "silent layoffs"—performance-linked exits and structural redesigns rather than large, publicized announcements. Estimates suggest that between 25,000 and 35,000 jobs in the Indian tech sector could be affected throughout 2026 as firms prioritize productivity and AI adaptability. Concurrently, US-based firm CorroHealth recently initiated mass layoffs at its Kochi and Kozhikode centers, affecting nearly 800 employees, leading to state government labor commission intervention and ongoing dispute resolution efforts.
 
 ## Reliability Notes
 

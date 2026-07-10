@@ -4,39 +4,39 @@ Generated for India time zone: Asia/Kolkata.
 
 ## Quick Summary
 
-The tech hiring landscape begins July 2026 with a selective, short-term recovery. Active job openings in India have rebounded by approximately 14% month-on-month from June's multi-year low, led by Bengaluru's 20% monthly recovery. However, a sharp "AI divergence" has emerged: while overall IT recruitment has faced a 3% YoY decline, hiring specifically for AI and machine learning roles has grown by 16% YoY.
+The tech hiring landscape begins July 2026 with a cautious but meaningful revival. Active job openings in India have rebounded by approximately 14% month-on-month, marking the first significant upward trend in over a year. The growth is heavily led by Global Capability Centers (GCCs) and large service providers like TCS reporting strong quarterly net additions.
 
 ## Key Hiring Numbers
 
 | Area | Reported number | Date / period | Meaning | Source |
 | --- | ---: | --- | --- | --- |
-| India active tech openings MoM | 14% increase | July 2026 | Moderate short-term rebound in hiring after a deep contraction in June. | Deccan Herald / Industry reports |
-| Bengaluru tech openings MoM | 20% increase | July 2026 | Rebound led by Karnataka's tech hub, which holds a 30% share of GCC hiring. | Industry data |
-| AI / ML job postings YoY | 16% growth | July 2026 | Strong acceleration in AI integration and deployment engineering roles. | Economic Times / NDTV Profit |
-| GCC AI role concentration | ~66% of new roles | July 2026 | Over two-thirds of new Global Capability Center roles require AI or intelligent automation skills. | Business Standard / GCC Trackers |
+| India active tech openings MoM | 14% increase | July 2026 | Moderate short-term rebound in hiring after a prolonged decline. | Deccan Herald / Economic Times |
+| TCS Net Hiring | 9,000+ employees | Q1 2026 | Strongest quarterly headcount addition in four years, signaling a potential thaw. | Tech Media |
+| GCC Job Openings YTD | 500,000+ positions | Expected 2026 | Projected total jobs in Indian GCC hubs by year-end. | GCC Trackers / Industry reports |
 
 ## Companies And Channels Hiring Freshers
 
 | Company / channel | Fresher signal today | Roles to check | Apply / source |
 | --- | --- | --- | --- |
-| Global Capability Centers (GCCs) | Relatively stable and selective hiring in regional hubs. | Junior Data Engineer, Cloud Associate. | Check official GCC careers pages |
-| Infosys / TCS | Continuing graduate intake with AI focus. | Systems Engineer, Specialist Programmer. | Official career portals |
-| MSMEs & Startups | Active demand for AI-fluent generalist builders and helpers. | AI Intern, MLOps Assistant. | Local job boards and startup portals |
+| TCS | Strong quarterly net addition signal. | Graduate Trainee, Ninja/Digital Roles. | TCS NextStep career portal |
+| Global Capability Centers (GCCs) | Active recruitment in regional hubs. | Junior Data Engineer, Cloud Associate. | Official GCC careers pages |
+| MSMEs & Startups | Demand for AI-fluent generalist builders. | AI Intern, MLOps Assistant. | Local job boards and startup portals |
 
 ## Skills In Demand
 
-Employers are heavily prioritizing specialized competencies over generic programming skills:
+Employers are heavily prioritizing specialized competencies and practical AI application over generic programming skills:
 
 - AI Engineering & Machine Learning Operations (MLOps)
 - Cloud Infrastructure Architecture & SRE (AWS, Azure, Terraform)
-- Cybersecurity, network protection, and threat hunting
+- Cybersecurity & Threat Intelligence
 - Data Engineering (ETL pipelines, Snowflake, Databricks)
+- Platform Engineering & Kubernetes administration
 
 ## Action Plan For Today
 
 1. **Target GCC Portals:** Global Capability Centers remain the most resilient employers, with active hiring for specialized positions.
-2. **Prioritize Skills Validation:** Leverage the industry shift from degree-based screening to technical assessments by building a robust Github portfolio and validating cloud/ML qualifications.
-3. **Build MLOps Experience:** With entry-level positions flatlining, acquiring MLOps, model deployment, and AI security skills is essential to stand out.
+2. **Prioritize Skills Validation:** Leverage the industry shift from degree-based screening to technical assessments by building a robust GitHub portfolio and validating cloud/ML qualifications.
+3. **Build Hands-on AI Projects:** Demonstrate how you apply AI tools to solve real-world coding and engineering problems rather than just showing theoretical knowledge.
 
 ## Reliability Notes
 
