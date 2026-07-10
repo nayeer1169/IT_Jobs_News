@@ -4,7 +4,7 @@ Generated for India time zone: Asia/Kolkata.
 
 ## Quick Summary
 
-The tech hiring landscape begins July 2026 with a cautious but meaningful revival. Active job openings in India have rebounded by approximately 14% month-on-month, marking the first significant upward trend in over a year. The growth is heavily led by Global Capability Centers (GCCs) and large service providers like TCS reporting strong quarterly net additions.
+The tech hiring landscape begins July 2026 with a cautious but meaningful revival. Active job openings in India have rebounded by approximately 14% month-on-month, marking the first significant upward trend in over a year. The growth is heavily led by Global Capability Centers (GCCs) and large service providers like TCS reporting strong quarterly net additions. There is also a major industry pivot towards "skills-first" hiring, with practical AI implementation taking center stage.
 
 ## Key Hiring Numbers
 
