@@ -10,7 +10,9 @@ def get_india_date():
     # GitHub Actions running on UTC: add 5 hours 30 mins to get India Standard Time (IST)
     utc_now = datetime.utcnow()
     ist_now = utc_now + timedelta(hours=5, minutes=30)
-    return ist_now.strftime("%Y-%m-%d")
+    # Subtract 6 hours to handle timezone rollover gracefully (e.g. if GitHub Action runs late after midnight)
+    report_time = ist_now - timedelta(hours=6)
+    return report_time.strftime("%Y-%m-%d")
 
 def fetch_rss_news(query):
     encoded_query = urllib.parse.quote(query)
@@ -172,6 +174,14 @@ def main():
     today = get_india_date()
     print(f"Generating reports for IST Date: {today}")
     
+    # Check if files already exist to prevent redundant generation/calls
+    target_dir = f"reports/{today}"
+    hiring_file = os.path.join(target_dir, "hiring-worldwide", "hiring-news.md")
+    layoffs_file = os.path.join(target_dir, "layoffs-worldwide", "layoffs-news.md")
+    if os.path.exists(hiring_file) and os.path.exists(layoffs_file):
+        print(f"Reports for {today} already exist. Skipping generation to avoid duplicate API calls.")
+        return
+
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         print("GEMINI_API_KEY environment variable not set. Falling back to static template generation.")
