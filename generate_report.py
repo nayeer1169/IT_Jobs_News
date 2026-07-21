@@ -4,11 +4,11 @@ import json
 import urllib.request
 import urllib.parse
 import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 def get_india_date():
     # GitHub Actions running on UTC: add 5 hours 30 mins to get India Standard Time (IST)
-    utc_now = datetime.utcnow()
+    utc_now = datetime.now(timezone.utc)
     ist_now = utc_now + timedelta(hours=5, minutes=30)
     # Subtract 6 hours to handle timezone rollover gracefully (e.g. if GitHub Action runs late after midnight)
     report_time = ist_now - timedelta(hours=6)
